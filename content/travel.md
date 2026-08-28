@@ -5,7 +5,7 @@ weight: 30
 
 ## Conference venue
 
-The 5th EOU Fledglings Meeting will take place at the Faculty of Biology, University of Gdańsk (Wydział Biologii Uniwersytetu Gdańskiego), located at:
+The Seabird Conference 2027 will take place at the Faculty of Biology, University of Gdańsk (Wydział Biologii Uniwersytetu Gdańskiego), located at:
 
 ul. Wita Stwosza 59, 80-314 Gdańsk.
 
