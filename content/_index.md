@@ -5,7 +5,8 @@ description: "A seabird conference in Gdansk, Poland 6-10 September 2027"
 
 ## Welcome
 
-Join us at the Faculty of Biology, University of Gdańsk, Poland for the **Seabird Conference, 6–10 September 2027.**
+<i>Join us at the Faculty of Biology, University of Gdańsk, Poland for the **Seabird Conference, 6–10 September 2027.**</i>
 
-<small>Information about the opening of the call for symposium and workshop proposals will be announced in October.</small>
+Call for workshops and symposia will be announced on **20th September 2026.**
+
 
