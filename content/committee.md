@@ -22,4 +22,7 @@ Martyna Syposz, Wageningen Marine Research, Poland
 
 Katarzyna Wojczulanis-Jakubas, University of Gdansk, Poland
 
+
+
+
 This conference is proudly hosted by the [Polar Ecology Group](https://polarecologygroup.wordpress.com).
