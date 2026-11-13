@@ -7,7 +7,7 @@ weight: 30
 
 The Seabird Conference 2027 will take place at the Faculty of Biology, University of Gdańsk (Wydział Biologii Uniwersytetu Gdańskiego), located at:
 
-ul. Wita Stwosza 59, 80-314 Gdańsk.
+ul. Wita Stwosza 59, 80-308 Gdańsk.
 
 The campus is easily accessible by public transport (please see details below).
 <iframe src="https://www.google.com/maps?q=54.394989,18.5766151&z=17&output=embed" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
