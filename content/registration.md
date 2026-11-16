@@ -14,6 +14,8 @@ weight: 50
 | Early bird registration deadline | 30 April 2027 |
 
 
+If you have any questions about the conference, do not hesitate to contact us via gdanskseabirdgroup@gmail.com 
 
 _In line with the resolution of the Senate of the University of Gdańsk and the position of the Ministry, participation in the meeting is not possible for individuals affiliated with Russian institutions._
+
 
