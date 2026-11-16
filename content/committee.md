@@ -16,4 +16,4 @@ weight: 40
 
 
 
-This conference is proudly hosted by the [Polar Ecology Group](https://polarecologygroup.wordpress.com).
+This conference is proudly hosted by the [Polar Ecology Group](https://polarecologygroup.wordpress.com). We can be contacted via email address gdanskseabirdgroup@gmail.com 
