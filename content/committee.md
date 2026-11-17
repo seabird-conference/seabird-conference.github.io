@@ -6,7 +6,7 @@ weight: 40
 - Françoise Amélineau, Ecole Normale Supérieure de Rennes, France
 - Pauline Bodson, University of Gdansk, Poland
 - Natasha Gillies, University of Sheffield
-- Antoine Grissot
+- Antoine Grissot, Jagiellonian University, Poland
 - Dariusz Jakubas, University of Gdansk, Poland
 - Dorota Kidawa, University of Gdansk, Poland
 - Kristin Piening, University of Gdansk, Poland
