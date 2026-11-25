@@ -8,8 +8,9 @@ weight: 40
 - Natasha Gillies, University of Sheffield
 - Antoine Grissot, Jagiellonian University, Poland
 - Dariusz Jakubas, University of Gdansk, Poland
-- Dorota Kidawa, University of Gdansk, Poland
+- Dorota Kidawa, Institute of Oceanology, Polish Academy of Science, Poland
 - Kristin Piening, University of Gdansk, Poland
+- Lea Ribeiro, Université Bourgogne Europe, France
 - Martyna Syposz, Wageningen Marine Research, Poland
 - Katarzyna Wojczulanis-Jakubas, University of Gdansk, Poland
 
