@@ -1,17 +1,17 @@
 ---
-title: "Scientific commettee"
+title: "Scientific committee"
 weight: 40
 ---
 - Anne Ausems, Aarhus University, Denmark
 - Françoise Amélineau, Ecole Normale Supérieure de Rennes, France
 - Pauline Bodson, University of Gdansk, Poland
-- Natasha Gillies, University of Sheffield
+- Natasha Gillies, University of Sheffield, UK
 - Antoine Grissot, Jagiellonian University, Poland
 - Dariusz Jakubas, University of Gdansk, Poland
 - Dorota Kidawa, Institute of Oceanology, Polish Academy of Science, Poland
 - Kristin Piening, University of Gdansk, Poland
 - Lea Ribeiro, Université Bourgogne Europe, France
-- Martyna Syposz, Wageningen Marine Research, Poland
+- Martyna Syposz, Wageningen Marine Research, The Netherlands
 - Katarzyna Wojczulanis-Jakubas, University of Gdansk, Poland
 
 
